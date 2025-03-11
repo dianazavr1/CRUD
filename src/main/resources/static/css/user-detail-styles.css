@@ -1,0 +1,32 @@
+.user-detail {
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.user-detail h2 {
+    color: #333;
+}
+
+.user-detail p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.user-detail a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.user-detail a:hover {
+    background: #0056b3;
+}
